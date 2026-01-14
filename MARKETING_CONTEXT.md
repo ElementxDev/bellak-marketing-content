@@ -37,14 +37,14 @@ Conectar auténticamente con la audiencia panameña, comunicar el valor de Bella
 
 ### Características del Lenguaje
 
-#### 1.  Cercano, amigable y conversacional
+#### 1. Cercano, amigable y conversacional
 - Estilo de amiga de confianza
 - Uso de 'tú'
 - Preguntas directas e invitaciones
 
 #### 2. Auténticamente panameño
 - Uso de jerga local y modismos
-- Ejemplos permitidos:  '¡Tremenda ganga!', '¡esto es pura sabrosura!', '¡el poder del Décimo!'
+- Ejemplos permitidos: '¡Tremenda ganga!', '¡esto es pura sabrosura!', '¡el poder del Décimo!'
 - **❌ NO USAR**: "embanque" ni "descoñetar" (no son de uso común)
 
 #### 3. Divertido y con humor cotidiano
@@ -108,24 +108,24 @@ Maximizar las ventas en días de precio regular (mayor margen) mientras se usa e
 ### 📍 PROVINCIAS CENTRALES
 
 #### 1. Llano Marín (Penonomé, Coclé)
-- **Dirección**:  Vía Interamericana, junto a TRAMERSA
+- **Dirección**: Vía Interamericana, junto a TRAMERSA
 - **Teléfono**: 6042-3529
 - **Instagram**: @bkllanomarin
 - **Surtido**: Martes y Viernes
-- **Día de $1**:  Domingos, Lunes y Jueves
+- **Día de $1**: Domingos, Lunes y Jueves
 - **Horario**:
   - Lun-Sáb: 8:00am – 6:30pm
   - Dom: 9:00am – 2:30pm
   - Feriados: 9:00am – 2:00pm
 
 #### 2. Damián Carles (Penonomé)
-- **Dirección**:  Cerca del Parque 8 de Diciembre
+- **Dirección**: Cerca del Parque 8 de Diciembre
 - **Teléfono**: 6042-4415
 - **Instagram**: @bkpenonome2
-- **Surtido**:  Martes y Viernes
-- **Día de $1**:  Domingos, Lunes y Jueves
+- **Surtido**: Martes y Viernes
+- **Día de $1**: Domingos, Lunes y Jueves
 - **Horario**:
-  - Lun-Sáb:  8:00am – 6:00pm
+  - Lun-Sáb: 8:00am – 6:00pm
   - Dom: 8:00am – 1:00pm
   - Feriados: 8:00am – 4:30pm
 
@@ -137,7 +137,7 @@ Maximizar las ventas en días de precio regular (mayor margen) mientras se usa e
 - **Día de $1**: Domingos, Lunes y Jueves
 - **Horario**:
   - Lun-Sáb: 8:00am – 7:00pm
-  - Dom:  9:00am – 2:00pm
+  - Dom: 9:00am – 2:00pm
   - Feriados: 9:00am – 4:30pm
 
 #### 4. Chitré (Herrera)
@@ -156,9 +156,9 @@ Maximizar las ventas en días de precio regular (mayor margen) mientras se usa e
 
 #### 5. Coronado (Chame)
 - **Dirección**: Plaza Valencia
-- **Teléfono**:  6937-5531
+- **Teléfono**: 6937-5531
 - **Instagram**: @bkcoronado10
-- **Surtido**:  Miércoles y Sábado
+- **Surtido**: Miércoles y Sábado
 - **Día de $1**: Martes y Viernes
 - **Horario**:
   - Lun-Sáb: 8:00am – 7:00pm
@@ -172,7 +172,7 @@ Maximizar las ventas en días de precio regular (mayor margen) mientras se usa e
 - **Día de $1**: Domingos, Lunes y Jueves
 - **Horario**:
   - Lun-Sáb: 9:00am – 7:00pm
-  - Dom:  9:00am – 5:00pm
+  - Dom: 9:00am – 5:00pm
   - Feriados: 9:30am – 6:00pm
 
 #### 7. Westland Mall (579 Fashion Store)
@@ -195,7 +195,7 @@ Maximizar las ventas en días de precio regular (mayor margen) mientras se usa e
 - **Teléfono**: 6030-7760
 - **Instagram**: @579_fashionstore
 - **Surtido**: Miércoles y Sábado
-- **Día de $1**:  Martes y Viernes
+- **Día de $1**: Martes y Viernes
 - **Horario**: 
   - Lun-Sáb: 10:00am – 8:00pm
   - Dom y Feriados: 11:00am – 7:00pm (según horario del mall)
@@ -205,14 +205,14 @@ Maximizar las ventas en días de precio regular (mayor margen) mientras se usa e
 - **Teléfono**: 6001-2931
 - **Instagram**: @bkcalidonia
 - **Surtido**: Miércoles y Sábado
-- **Día de $1**:  Martes y Viernes
+- **Día de $1**: Martes y Viernes
 - **Horario**: 
   - Lun-Sáb: 9:00am – 7:00pm
-  - Dom y Feriados:  9:00am – 5:00pm
+  - Dom y Feriados: 9:00am – 5:00pm
 
 #### 10. Los Andes (San Miguelito)
-- **Dirección**: C.C.  Los Andes
-- **Teléfono**:  6624-2875
+- **Dirección**: C.C. Los Andes
+- **Teléfono**: 6624-2875
 - **Instagram**: @bklosandes
 - **Surtido**: Martes y Viernes
 - **Día de $1**: Lunes y Jueves
@@ -221,20 +221,20 @@ Maximizar las ventas en días de precio regular (mayor margen) mientras se usa e
   - Dom y Feriados: 9:00am – 5:00pm
 
 #### 11. Los Pueblos
-- **Dirección**: C. C. Los Pueblos 2000, antiguo Felix B.  Maduro
+- **Dirección**: C.C. Los Pueblos 2000, antiguo Felix B. Maduro
 - **Teléfono**: 6071-8099
 - **Instagram**: @bklospueblos
 - **Surtido**: Martes y Viernes
 - **Día de $1**: Lunes y Jueves
 - **Horario**:
-  - Lun-Sáb:  9:00am – 8:00pm
+  - Lun-Sáb: 9:00am – 8:00pm
   - Dom y Feriados: 9:00am – 5:00pm
 
 #### 12. 24 de Diciembre
-- **Dirección**: Plaza Metro 24, frente a C. C. La Doña
+- **Dirección**: Plaza Metro 24, frente a C.C. La Doña
 - **Teléfono**: 6090-5388
 - **Instagram**: @bk24dic
-- **Surtido**:  Miércoles y Sábado
+- **Surtido**: Miércoles y Sábado
 - **Día de $1**: Martes y Viernes
 - **Horario**:
   - Lun-Sáb: 9:30am – 8:30pm
@@ -244,11 +244,11 @@ Maximizar las ventas en días de precio regular (mayor margen) mientras se usa e
 - **Dirección**: La Llave, arriba de Mini Súper ACRUX
 - **Teléfono**: 6911-9362
 - **Instagram**: @bkchilibre
-- **Surtido**:  Miércoles y Sábado
+- **Surtido**: Miércoles y Sábado
 - **Día de $1**: Martes y Viernes
 - **Horario**: 
   - Lun-Sáb: 9:00am – 7:00pm
-  - Dom:  9:00am – 5:00pm
+  - Dom: 9:00am – 5:00pm
   - Feriados: 9:30am – 6:00pm
 
 ---
@@ -288,5 +288,5 @@ Coronado, Albrook Mall, Calidonia, 24 de Diciembre, Chilibre
 
 ---
 
-**Última actualización**:  Enero 2026
+**Última actualización**: Enero 2026
 **Mantenido por**: @ElementxDev

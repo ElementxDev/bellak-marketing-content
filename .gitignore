@@ -1,0 +1,77 @@
+# Archivos temporales de diseño
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# Adobe Creative Suite
+*.psd
+*.ai
+*.indd
+*.psb
+*.sketch
+*.xd
+
+# Archivos de respaldo de diseño
+*_backup.*
+*.backup
+*.bak
+*.old
+
+# Archivos de caché de editores
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Carpetas temporales
+temp/
+tmp/
+cache/
+.cache/
+
+# Archivos de video sin procesar (muy grandes)
+*.mov
+*.avi
+*.raw
+*.dng
+
+# Archivos de proyecto de video
+*.prproj
+*.aep
+*.sesx
+*.veg
+
+# Archivos de Figma locales
+*.fig.bak
+
+# Archivos de Canva (descargas temporales)
+*_canva_temp.*
+
+# Archivos de fuentes no distribuibles
+*.otf.tmp
+*.ttf.tmp
+
+# Logs
+*.log
+logs/
+
+# Sistema operativo
+.fseventsd
+.Spotlight-V100
+.Trashes
+
+# Carpetas de node_modules si se usan herramientas
+node_modules/
+.npm/
+
+# Archivos de configuración local
+.env
+.env.local
+.vscode/
+.idea/
+
+# Archivos grandes de video renderizados (mantener versiones finales comprimidas)
+*_uncompressed.*
+*_4k.*
+*_8k.*

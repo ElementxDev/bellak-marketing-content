@@ -81,7 +81,7 @@ instagram/
 
 **Reels**:
 - Tutoriales rápidos
-- Rutinas de skincare en timelapase
+- Rutinas de skincare en timelapse
 - Resultados de productos
 
 ### 579 Fashion Store

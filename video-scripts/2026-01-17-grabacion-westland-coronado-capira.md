@@ -19,11 +19,11 @@
 [INICIO - Yinelis en la tienda, mostrando ropa de frío]
 
 YINELIS (emocionada):
-"¡Ey, mi gente! ¿Listos para el frío? 🥶
+"¡Preparense porque 579 Fashion Store se viene con todo, por cambio de temporada! 
 
 [Muestra suéter/chaqueta]
 
-Del 25 al 27 de enero, 579 Fashion Store tiene DESCUENTOS BRUTALES en ropa de frío y ropa seleccionada. 
+Del domingo 25 al martes 27 de enero, 579 Fashion Store tiene DESCUENTOS BRUTALES en ropa de frío y ropa seleccionada. 
 
 [Cambia a otro outfit]
 

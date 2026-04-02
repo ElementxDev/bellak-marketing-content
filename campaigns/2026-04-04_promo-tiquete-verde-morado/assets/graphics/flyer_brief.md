@@ -5,6 +5,16 @@
 
 ---
 
+## ✅ TAGLINE / LOGO OFICIAL CONFIRMADO
+
+> ### 🏷️ **"Lleva una gratis por cada B/. 10 en compras"**
+
+Este texto funcionará como **logo/badge** de la promoción — un elemento visual fijo y reconocible que aparece en todos los materiales de la campaña (flyer, stories, etiquetas físicas en tienda, posts).
+
+Ver diseños del logo/badge: [logo_badge_brief.md](./logo_badge_brief.md)
+
+---
+
 ## 🎯 Objetivo del Flyer
 
 Comunicar la mecánica de la promoción en menos de **5 segundos** de lectura e **inspirar al cliente a planear una compra en múltiplos de B/.10**.
